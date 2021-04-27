@@ -83,7 +83,7 @@
           .col-lg-6
           .bloque-texto-c.p-4
         
-            .h2.mb-2 <b>Para generar cultura de donación se requiere contar con estrategias que llamen la atención de los ciudadanos.</b>
+            .h5.mb-2 <b>Para generar cultura de donación se requiere contar con estrategias que llamen la atención de los ciudadanos.</b>
             
         .col-md-5 Por ello es necesario indicar que una estrategia se alimenta de diferentes actividades estructuradas bajo una misma línea gráfica y con el mismo propósito, de tal forma que con el tiempo se logre generar recordación y educación en un tema determinado, por ejemplo: <b>obra de teatro, video, kit escolar, stand educativo, difusión de mensajes en redes sociales, semillero de promotores, entre otros.</b> <br>Todas estas herramientas de realizan con el mismo concepto creativo y de diseño.
 
@@ -234,15 +234,15 @@
 
     .i-general-3.my-2.mt-5
     .row.m-0.align-items-center.justify-content-between
-        div.div-gradient-4.hr
+        div.div-gradient-4.tarjeta--border
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico_20.svg' alt="",style="width:60px; display:block; margin:auto 0;")
             .h5.text-center.mt-3 #[strong ¿Siente que le informaron todos los aspectos relacionados con la donación de sangre?]
-        div.div-gradient-4.hr
+        div.div-gradient-4.tarjeta--border
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico_16.svg' alt="", style="width:60px; display:block; margin:auto 0;")
             .h5.text-center.mt-3 #[strong ¿Le fueron aclaradas todas sus dudas?]
-        div.div-gradient-4.hr
+        div.div-gradient-4.tarjeta--border
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico_14.svg' alt="", style="width:60px; display:block; margin:auto 0;")
             .h5.text-center.mt-3 #[strong ¿usted volvería a donar sangre?]
