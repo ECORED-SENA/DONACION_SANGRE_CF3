@@ -10,7 +10,7 @@
       .h3 Acciones para generar cultura de la donación de sangre
 
     .row.mt-5
-        .col-md-6
+        .col-md-6.mb-4.mb-lg-0
           .col-lg-6
           .bloque-texto-c.p-4
         
@@ -18,7 +18,7 @@
             
         .col-md-5.text-jumbotron-padding
             p La sangre es un bien de interés público y su donación es de vital importancia para la sociedad, ya que <b>salva o mejora la calidad de vida de algunos pacientes.</b>
-
+            br
             p Para generar cultura de donación de sangre, se requiere de un proceso previo de <b>información, sensibilización y educación, para que los ciudadanos conozcan la importancia de donar voluntariamente,</b> sin ningún tipo de coacción y que, además, se realice de manera frecuente.
 
     p.mt-3 El promotor debe concebir los estudios de conocimientos, actitudes y prácticas, como una herramienta fundamental para identificar aquellas dudas que tienen las personas con respecto a la donación de sangre, <b>definiendo los sustentos que den respuesta con claridad a dichos interrogantes usando un lenguaje básico y evitando usar palabras técnicas.</b>
@@ -47,15 +47,18 @@
     p.mt-5 De acuerdo con lo observado, se determina que el mayor número de interrogantes están centrados en saber si:
     
     .i-general-3.my-2.mt-5
-    .row.m-0.align-items-center.justify-content-between
+    .row.m-0.align-items-center.justify-content-center
+      .col-12.col-lg-4
         div.div-gradient-3
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico_2.svg' alt="",style="width:300px; display:block; margin:auto 0;")
             p.text-center.mt-2 #[strong ¿Donar sangre engorda?]
+      .col-12.col-lg-4
         div.div-gradient-3
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico_3.svg' alt="", style="width:300px; display:block; margin:auto 0;")
             p.text-center.mt-2 #[strong ¿Donar sangre enferma?]
+      .col-12.col-lg-4
         div.div-gradient-3
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico_4.svg' alt="", style="width:300px; display:block; margin:auto 0;")
@@ -85,7 +88,7 @@
         
             .h5.mb-2 <b>Para generar cultura de donación se requiere contar con estrategias que llamen la atención de los ciudadanos.</b>
             
-        .col-md-5 Por ello es necesario indicar que una estrategia se alimenta de diferentes actividades estructuradas bajo una misma línea gráfica y con el mismo propósito, de tal forma que con el tiempo se logre generar recordación y educación en un tema determinado, por ejemplo: <b>obra de teatro, video, kit escolar, stand educativo, difusión de mensajes en redes sociales, semillero de promotores, entre otros.</b> <br>Todas estas herramientas de realizan con el mismo concepto creativo y de diseño.
+        .col-md-5 Por ello es necesario indicar que una estrategia se alimenta de diferentes actividades estructuradas bajo una misma línea gráfica y con el mismo propósito, de tal forma que con el tiempo se logre generar recordación y educación en un tema determinado, por ejemplo: <b>obra de teatro, video, kit escolar, stand educativo, difusión de mensajes en redes sociales, semillero de promotores, entre otros.</b> <br><br>Todas estas herramientas de realizan con el mismo concepto creativo y de diseño.
 
         .row.justify-content-center.align-items-center.mt-5
             .col-auto
@@ -148,55 +151,66 @@
 
     p.mt-4 La integración de su rigurosidad metodológica con los aspectos técnicos en donación de sangre, permite la eficacia y eficiencia de cualquier plan, programa o proyecto en busca de la cultura de donación. 
 
-    .h5.mt-3 Fortalezas del mercadeo social en la donación de sangre
-
-    .i-general-5
-        div.div-gradient-13
-          .col-auto 
-             img.img-responsive.mt-3(src='@/assets/curso/images/pages/ilustraciones/line.svg')
-          .div.c-card-13
-            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_7.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float 
-            p #[strong Focalización en grupos específicos de la población ] #[br] Las técnicas implementadas permiten que los promotores de la donación de sangre entiendan y atiendan las necesidades de información de los diferentes tipos de población y, de esta manera, centran sus acciones de información, sensibilización y educación según las características del grupo poblacional
-        div.div-gradient-13
-          .col-auto 
-             img.img-responsive.mt-3(src='@/assets/curso/images/pages/ilustraciones/line.svg')
-          .div.c-card-13
-            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_6.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float
-            p.mt-3 #[strong Basado en la evidencia científica] #[br] Su actuar está basado en proveer previamente información determinante para el enfoque de estrategias educativas en donación de sangre, de tal forma que estas sean estructuradas teniendo en cuenta en los donantes potenciales: gustos, deseos, motivaciones, expectativas, creencias, mitos, percepciones, ideas, conceptos, costumbres, hábitos, prácticas, conductas, simbolismos, lenguajes, usos, entre otros. 
-        div.div-gradient-13
-          .col-auto 
-             img.img-responsive.mt-3(src='@/assets/curso/images/pages/ilustraciones/line.svg')
-          .div.c-card-13
-            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_10.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float 
-            p #[strong Analiza los determinantes del entorno y genera acciones que garanticen el éxito] #[br] El mercadeo permite identificar y analizar aquellos factores que actúan como determinantes o condicionantes al momento de emitir el mensaje. Por lo tanto, es fundamental que el mensaje emitido a los donantes potenciales esté acompañado de espacios y ambientes agradables, así como contar con herramientas lúdicas que apoyen cada explicación y que llamen la atención de las personas. 
-        div.div-gradient-13
-          .col-auto 
-             img.img-responsive.mt-3(src='@/assets/curso/images/pages/ilustraciones/line.svg')
-          .div.c-card-13
-            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_11.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float 
-            p #[strong Concertado interinstitucional/intersectorialmente] #[br] El mercadeo social involucra no solo al público objetivo, sino que se coordina con instituciones representativas de distintos sectores sociales, para realizar intervenciones conjuntas. #[br]Es decir, el mercadeo social promueve la cohesión social, lo cual es relevante para la donación de sangre, puesto que es un tema que no solo es competencia del sector salud. Es por esto que el promotor de la donación, al implementar acciones de mercadeo social, se ve en la necesidad de invitar a que otros actores se involucren con el tema.
-        div.div-gradient-13
-          .col-auto 
-             img.img-responsive.mt-3(src='@/assets/curso/images/pages/ilustraciones/line.svg')
-          .div.c-card-13
-            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_12.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float
-            p #[strong Busca resultados sostenibles en el tiempo] #[br]Los cambios que sugiere el mercadeo social requieren de un proceso continuo y mucho tiempo para percibir u obtener resultados. También, requiere de un extenso trabajo de persuasión y adopción, que lleve bienestar y felicidad a los individuos y grupos sociales procurando la adopción del cambio como práctica social. Lo anterior es relevante para la cultura de la donación de sangre, dado que para llegar a este nivel se requiere de un proceso extenso y continuo de información, sensibilización y educación. 
-        div.div-gradient-13
-          .col-auto 
-             img.img-responsive.mt-3(src='@/assets/curso/images/pages/ilustraciones/line.svg')
-          .div.c-card-13
-            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_9.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float 
-            p #[strong Es medible] #[br]Permite cuantificar la distribución de ciertas variables y establecer metas. Para el promotor de la donación de sangre es fundamental basar sus decisiones en el análisis previo de los indicadores, los cuales no solo se centran en la cantidad de unidades colectadas, sino que además, en verificar si los donantes captados son de bajo riesgo de transmitir infecciones, lo cual se puede observar a través de las tasas de positividad.  
-        div.div-gradient-13
-          .col-auto 
-             img.img-responsive.mt-3(src='@/assets/curso/images/pages/ilustraciones/line.svg')
-          .div.c-card-13
-            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_8.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float 
-            p #[strong Es interdisciplinario] #[br]Requiere de trabajo en equipo para aplicar el conocimiento de las disciplinas relacionadas y con miras a la promoción de la donación de sangre se requiere de un equipo interdisciplinario que contribuya desde el campo de la publicidad, diseño gráfico, periodismo, trabajo social, community manager, entre otros (Ministerio de Salud de Costa Rica, 2020; Santay, 2018).
-          .col-auto 
-             img.img-responsive.mt-3(src='@/assets/curso/images/pages/ilustraciones/line.svg')
-
-    br
+    .h5.mt-3 
+    
+      hr
+      .row.align-items-center
+        .col-auto
+          figure
+            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_7.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float     
+        .col
+          h6.mb-2 Focalización en grupos específicos de la población Las técnicas implementadas permiten que los promotores de la donación de sangre entiendan y atiendan
+          p las necesidades de información de los diferentes tipos de población y, de esta manera, centran sus acciones de información, sensibilización y educación según las características del grupo poblacional.
+      hr
+      .row.align-items-center
+        .col-auto
+          figure
+            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_6.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float      
+        .col
+          h6.mb-2 Basado en la evidencia científica
+          p Su actuar está basado en proveer previamente información determinante para el enfoque de estrategias educativas en donación de sangre, de tal forma que estas sean estructuradas teniendo en cuenta en los donantes potenciales: gustos, deseos, motivaciones, expectativas, creencias, mitos, percepciones, ideas, conceptos, costumbres, hábitos, prácticas, conductas, simbolismos, lenguajes, usos, entre otros. 
+      hr
+      .row.align-items-center
+        .col-auto
+          figure
+            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_10.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float     
+        .col
+          h6.mb-2 Analiza los determinantes del entorno y genera acciones que garanticen el éxito
+          p El mercadeo permite identificar y analizar aquellos factores que actúan como determinantes o condicionantes al momento de emitir el mensaje. Por lo tanto, es fundamental que el mensaje emitido a los donantes potenciales esté acompañado de espacios y ambientes agradables, así como contar con herramientas lúdicas que apoyen cada explicación y que llamen la atención de las personas. 
+      hr
+      .row.align-items-center
+        .col-auto
+          figure
+            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_11.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float     
+        .col
+          h6.mb-2 Concertado interinstitucional/intersectorialmente
+          p El mercadeo social involucra no solo al público objetivo, sino que se coordina con instituciones representativas de distintos sectores sociales, para realizar intervenciones conjuntas. #[br]Es decir, el mercadeo social promueve la cohesión social, lo cual es relevante para la donación de sangre, puesto que es un tema que no solo es competencia del sector salud. Es por esto que el promotor de la donación, al implementar acciones de mercadeo social, se ve en la necesidad de invitar a que otros actores se involucren con el tema. 
+      hr
+      .row.align-items-center
+        .col-auto
+          figure
+            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_12.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float      
+        .col
+          h6.mb-2 Busca resultados sostenibles en el tiempo
+          p Los cambios que sugiere el mercadeo social requieren de un proceso continuo y mucho tiempo para percibir u obtener resultados. También, requiere de un extenso trabajo de persuasión y adopción, que lleve bienestar y felicidad a los individuos y grupos sociales procurando la adopción del cambio como práctica social. Lo anterior es relevante para la cultura de la donación de sangre, dado que para llegar a este nivel se requiere de un proceso extenso y continuo de información, sensibilización y educación.  
+      hr
+      .row.align-items-center
+        .col-auto
+          figure
+            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_9.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float         
+        .col
+          h6.mb-2 Es medible
+          p Permite cuantificar la distribución de ciertas variables y establecer metas. Para el promotor de la donación de sangre es fundamental basar sus decisiones en el análisis previo de los indicadores, los cuales no solo se centran en la cantidad de unidades colectadas, sino que además, en verificar si los donantes captados son de bajo riesgo de transmitir infecciones, lo cual se puede observar a través de las tasas de positividad.
+      hr
+      .row.align-items-center
+        .col-auto
+          figure
+            img.me-5(src='@/assets/curso/images/pages/ilustraciones/ico_8.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float     
+        .col
+          h6.mb-2 Es interdisciplinario
+          p Requiere de trabajo en equipo para aplicar el conocimiento de las disciplinas relacionadas y con miras a la promoción de la donación de sangre se requiere de un equipo interdisciplinario que contribuya desde el campo de la publicidad, diseño gráfico, periodismo, trabajo social, community manager, entre otros (Ministerio de Salud de Costa Rica, 2020; Santay, 2018)
+      hr
+      br
     #t_1_5.h4.mt-4 1.5 Servicio a los donantes de sangre
     .titulo-segundo    
 
@@ -233,15 +247,18 @@
 
 
     .i-general-3.my-2.mt-5
-    .row.m-0.align-items-center.justify-content-between
+    .row.m-0.align-items-center.justify-content-center
+      .col-12.col-lg-4
         div.div-gradient-4.tarjeta--border
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico_20.svg' alt="",style="width:60px; display:block; margin:auto 0;")
             .h5.text-center.mt-3 #[strong ¿Siente que le informaron todos los aspectos relacionados con la donación de sangre?]
+      .col-12.col-lg-4
         div.div-gradient-4.tarjeta--border
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico_16.svg' alt="", style="width:60px; display:block; margin:auto 0;")
             .h5.text-center.mt-3 #[strong ¿Le fueron aclaradas todas sus dudas?]
+      .col-12.col-lg-4
         div.div-gradient-4.tarjeta--border
           .div.c-card-3
             img.img-a.d-block.m-auto(src='@/assets/curso/images/pages/ilustraciones/ico_14.svg' alt="", style="width:60px; display:block; margin:auto 0;")
