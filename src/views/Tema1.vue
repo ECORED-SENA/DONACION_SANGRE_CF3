@@ -380,28 +380,28 @@ export default {
         titulo: '',
         texto:
           'La única fábrica de sangre que existe en todo el universo está en los huesos y se llama la médula ósea, inmediatamente una persona dona, la médula ósea se activa e inicia la producción de las nuevas células sanguíneas, sin necesidad de que dicha persona haga algo para su obtención.',
-        imagen: require('@/assets/curso/images/pages/ilustraciones/img_1.png'),
+        imagen: require('@/assets/curso/images/pages/ilustraciones/S1.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: '',
         texto:
           'Las personas por lo general piensan, que la producción de células sanguíneas depende de la cantidad de alimentos que consume. Si un donante toma este tipo de medidas, podría conllevar a aumentar su peso corporal, y no le aportaría en la producción de las nuevas células sanguíneas, ya que estas se producen en la médula ósea sin necesidad de hacer absolutamente nada.',
-        imagen: require('@/assets/curso/images/pages/ilustraciones/img_2.png'),
+        imagen: require('@/assets/curso/images/pages/ilustraciones/S2.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: '',
         texto:
           'El aumento en el consumo de líquido antes, durante y después de la donación, sí es una recomendación que se le debe dar a los donantes de sangre, puesto que, al habérsele extraído la sangre donada, el cuerpo sentirá la ausencia de dicho líquido, y si no se toman este tipo de medidas, podría existir una alta posibilidad de que se presenten reacciones adversas a la donación de sangre como, por ejemplo, mareos; por esta razón, se les debe indicar la importancia del aumento del consumo de agua, jugo, yogurt, entre otros.',
-        imagen: require('@/assets/curso/images/pages/ilustraciones/img_3.png'),
+        imagen: require('@/assets/curso/images/pages/ilustraciones/S3.jpg'),
         //leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: '',
         texto:
           'Por lo anterior, el banco de sangre le brinda al donante un refrigerio posterior a la donación, ya que su interés es que los donantes no vayan a sentir mareos u otro tipo de sintomatología después de haber donado. De acuerdo con lo anterior, la finalidad del refrigerio no es un pago que se le da al donante, sino es una medida de protección para evitarle algún malestar que comprometa su estado de salud. Con este tipo de sustentos, el promotor no solo aclara que donar sangre no engorda, sino que, además, le da a conocer al donante que el banco de sangre se preocupa por su bienestar y que el refrigerio no es un pago, sino que es una medida de protección del banco de sangre para evitar que sienta algún tipo de molestia',
-        imagen: require('@/assets/curso/images/pages/ilustraciones/img_4.png'),
+        imagen: require('@/assets/curso/images/pages/ilustraciones/S4.jpg'),
         //leyendaImagen: 'Leyenda de la imagen',
       },
     ],
