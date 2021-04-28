@@ -150,8 +150,6 @@
             p.mt-2.text-jumbotron-padding A través de dichos estudios se conocen los conocimientos, actitudes y prácticas que tienen las personas sobre un tema determinado. Por lo tanto,<b>busca influir en la adquisición, reafirmación o cambio de conocimientos, hábitos, mitos, actitudes, creencias, comportamientos, conductas o prácticas sociales,</b>  para mejorar y desarrollar integralmente la salud de las personas y de las organizaciones.
 
     p.mt-4 La integración de su rigurosidad metodológica con los aspectos técnicos en donación de sangre, permite la eficacia y eficiencia de cualquier plan, programa o proyecto en busca de la cultura de donación. 
-
-    .h5.mt-3 
     
       hr
       .row.align-items-center
