@@ -1,2 +1,1 @@
-module.exports =
-  'Acciones para generar cultura de la donación de sangre'
+module.exports = 'Acciones para generar cultura de la donación de sangre'

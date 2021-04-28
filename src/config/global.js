@@ -1,6 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Gestión campañas donación de sangre',
+    componenteFormativo:
+      'Acciones para generar cultura de la donación de sangre ',
     descripcionCurso:
       'En este componente el aprendiz abordará las acciones que un promotor debe tener en cuenta al momento de realizar una estrategia educativa para promover la donación voluntaria y habitual de sangre, siguiendo los criterios normativos y técnicos establecidos por el nivel nacional. Así mismo, le permitirá al estudiante explorar y conocer la importancia de los estudios de conocimientos, actitudes y prácticas para identificar los mitos y falsas creencias que tiene la población con respecto a la donación de sangre, y así poder centrar su atención en los mismos y aclarar dichas dudas a través de la creación de estrategias de información, sensibilización y educación, herramientas de comunicación asertiva y medios de comunicación, conllevando a una cultura de donación de sangre, basada en argumentos de tipo social.',
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.svg'),
@@ -109,7 +110,7 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
+        cargo: 'Asesor Metodológico y Pedagógico',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
@@ -145,7 +146,7 @@ export default {
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
+        cargo: 'Soporte Organizacional',
         regional: 'Regional Tolima',
       },
       {
@@ -187,24 +188,25 @@ export default {
     {
       referencia:
         'Comunidad Económica Europea. (2020). Manual de gestión de donantes proyecto Domaine. https://aprenderly.com/doc/1774837/manual-de-gesti%C3%B3n-de-donantes.-proyecto-domaine.',
-      Link:
-        'https://www.ins.gov.co/Direcciones/RedesSaludPublica/DonacionSangre/AreasEstrategicas/Proyecto%20de%20Cohesi%C3%B3n%20Social%20-%20Instituto%20Nacional%20de%20Salud.pdf#search=proyecto%20de%20cohesion%20social',
+      link:
+        'https://www.mscbs.gob.es/profesionales/saludPublica/medicinaTransfusional/publicaciones/docs/criteriosBasicosTomoII_2006_030907.pdf',
     },
     {
       referencia:
         'Instituto Nacional de Salud – INS. (2020). Boletín técnico: la promoción de la donación voluntaria y habitual de sangre.',
-      Link:
+      link:
         'https://www.ins.gov.co/direcciones/redessaludpublica/donacionsangre/publicaciones/forms/allitems.aspx?paged=true&pagedprev=true&p%255fsortbehavior=0&p%255fmodified=20190621+15:48:13&p%255fid=98&pagefirstrow=2051&view=%7B9ba0dcd5-959b-429c-b4fe-0852977b2162%7D',
     },
     {
       referencia:
         'Instituto Nacional de Salud - INS. (2020). La promoción de la donación voluntaria de sangre como agente de cohesión social.',
+      link: '',
     },
     {
       referencia:
-        'Ministerio de Salud de Costa Rica. (2020). Mercadeo Social en salud: conceptos, principios y herramientas.',
-      Link:
-        'https://bibliotecapromocion.msp.gob.ec/greenstone/cgi-bin/library.cgi?e=d-11000-00---off-0promocin--00-2----0-10-0---0---0direct-10----4-------0-0l--11-he-50---20-preferences---10-3-1-00-00--4--0--0-0-11-10-0gbk-00&cl=CL2.20&d=HASH8ed8eb6742ae05c2eb8b81&x=1 ',
+        'Ministerio de Salud de Costa Rica. (2020). Mercadeo Social en salud: conceptos, principios y herramientas. ',
+      link:
+        'https://bibliotecapromocion.msp.gob.ec/greenstone/cgi-bin/library.cgi?e=d-11000-00---off-0promocin--00-2----0-10-0---0---0direct-10----4-------0-0l--11-he-50---20-preferences---10-3-1-00-00--4--0--0-0-11-10-0gbk-00&cl=CL2.20&d=HASH8ed8eb6742ae05c2eb8b81&x=1',
     },
     {
       referencia:
@@ -214,20 +216,28 @@ export default {
     },
     {
       referencia:
-        'Organización Panamericana de la Salud OPS. (2020). Manual hagamos la diferencia.',
-      link: 'https://iris.paho.org/handle/10665.2/31336',
+        'Organización Panamericana de la Salud OPS. (2020). Manual hagamos la diferencia. https://iris.paho.org/handle/10665.2/31336',
+      link: '',
     },
     {
       referencia:
         'Peñaloza, B., Prieto, C. y Rodríguez, I. (2012). Mercadeo en salud. Universidad Nacional de Colombia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Pérez, L. y Vásquez, P. (2017). Conocimientos y Mitos en la donación de sangre en estudiantes de enfermería de 2° a 4° año de una Universidad privada de Lima. Universidad Peruana Cayetano Heredia.',
+      link: '',
     },
     {
       referencia:
         'Santay, O. (2018) Evaluación de la calidad en la atención al donador en un banco de sangre de Guatemala. Universidad de San Carlos de Guatemala.',
+      link: '',
     },
     {
       referencia:
         'Vásquez, M., Ibarra, P. y Maldonado, M. (2007). Conocimientos y actitudes hacia la donación de sangre en una población universitaria de Chile. Revista Panamericana de Salud Pública, 22(5). p. 323–328.',
+      link: '',
     },
   ],
 
@@ -235,52 +245,52 @@ export default {
     {
       termino: 'Autocuidado de la salud',
       significado:
-        'Conjunto de actitudes y aptitudes para ejecutar de manera consciente y voluntaria, actividades encaminadas a preservar la salud y prevenir enfermedades.',
+        'conjunto de actitudes y aptitudes para ejecutar de manera consciente y voluntaria, actividades encaminadas a preservar la salud y prevenir enfermedades.',
     },
     {
       termino: 'Cohesión social',
       significado:
-        'Grado de consenso o de acuerdo, de los miembros de un grupo social sobre la percepción de pertenencia a un proyecto o situación en común. Es una medida de la fuerza de la interacción social dentro del grupo; puede ser medible por medio de un test de índices o simplemente descrito o definido para cada caso, es decir puede ser de carácter cualitativo o cuantitativo.',
+        'grado de consenso o de acuerdo, de los miembros de un grupo social sobre la percepción de pertenencia a un proyecto o situación en común. Es una medida de la fuerza de la interacción social dentro del grupo; puede ser medible por medio de un test de índices o simplemente descrito o definido para cada caso, es decir puede ser de carácter cualitativo o cuantitativo.',
     },
     {
       termino: 'Donante de sangre habitual',
       significado:
-        'Persona entre los 18 y los 65 años que dona sangre de manera periódica: al menos, una o dos veces por año, durante toda su vida.',
+        'persona entre los 18 y los 65 años que dona sangre de manera periódica: al menos, una o dos veces por año, durante toda su vida.',
     },
     {
       termino: 'Encuestas CAP',
       significado:
-        'Encuestas cuyo propósito es determinar el conocimiento, actitudes y prácticas (CAP), de una población sobre un aspecto y/o problema específico en estudio.',
+        'encuestas cuyo propósito es determinar el conocimiento, actitudes y prácticas (CAP), de una población sobre un aspecto y/o problema específico en estudio.',
     },
     {
       termino: 'Hipovolemia',
       significado:
-        'Disminución del volumen total de sangre que circula por el cuerpo, por causas fisiológicas o patológicas.',
+        'disminución del volumen total de sangre que circula por el cuerpo, por causas fisiológicas o patológicas.',
     },
     {
       termino: 'Mercadeo en salud',
       significado:
-        'Disciplina que tiene un sinnúmero de aplicaciones en el campo de la salud pública, a través de un diseño estratégico, con el que pretende promover y reforzar hábitos y estilos de vida saludables con un enfoque de promoción y prevención.',
+        'disciplina que tiene un sinnúmero de aplicaciones en el campo de la salud pública, a través de un diseño estratégico, con el que pretende promover y reforzar hábitos y estilos de vida saludables con un enfoque de promoción y prevención.',
     },
     {
       termino: 'Mercadeo social',
       significado:
-        'Combinación de técnicas de marketing pero que no busca promocionar productos o servicios, sino que quiere, principalmente, difundir alguna idea que ayude a superar problemas sociales.,',
+        'combinación de técnicas de marketing pero que no busca promocionar productos o servicios, sino que quiere, principalmente, difundir alguna idea que ayude a superar problemas sociales.,',
     },
     {
       termino: 'Mitos sobre la donación de sangre',
       significado:
-        'Creencias arraigadas de manera popular entre la gente, que no tiene ningún soporte científico y que, por lo tanto, no son verdaderas. ',
+        'creencias arraigadas de manera popular entre la gente, que no tiene ningún soporte científico y que, por lo tanto, no son verdaderas. ',
     },
     {
       termino: 'Promoción de la donación de sangre',
       significado:
-        'Proceso de ayuda a las personas para que opten ser donantes a lo largo de toda su vida y que implica la observancia de principios bioéticos, como: la autonomía del hombre y el altruismo para brindar su sangre, o algunos de sus componentes, para ser empleados en pacientes que los requieren. Este proceso requiere que se le brinde a los donantes plena información de los detalles del procedimiento, sus objetivos y los riesgos a los que se somete, y con todos estos elementos en su poder dar su consentimiento escrito.,',
+        'proceso de ayuda a las personas para que opten ser donantes a lo largo de toda su vida y que implica la observancia de principios bioéticos, como: la autonomía del hombre y el altruismo para brindar su sangre, o algunos de sus componentes, para ser empleados en pacientes que los requieren. Este proceso requiere que se le brinde a los donantes plena información de los detalles del procedimiento, sus objetivos y los riesgos a los que se somete, y con todos estos elementos en su poder dar su consentimiento escrito.,',
     },
     {
       termino: 'Seguridad transfusional',
       significado:
-        'Según la Organización Mundial de la Salud, es el garantizar que todas las personas tengan acceso a sangre y productos sanguíneos lo más seguros posible, a un costo razonable y en cantidades suficientes para satisfacer sus necesidades.',
+        'según la Organización Mundial de la Salud, es el garantizar que todas las personas tengan acceso a sangre y productos sanguíneos lo más seguros posible, a un costo razonable y en cantidades suficientes para satisfacer sus necesidades.',
     },
   ],
   complementario: [
