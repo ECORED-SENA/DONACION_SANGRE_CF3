@@ -194,8 +194,8 @@
 
     figure.my-5
       .video
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/eb5aT2pCV14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      figcaption       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/D37xInUEyrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      figcaption Video. Servicio a los donantes de sangre        
 
     p.mt-3 El promotor de la donación debe tener en cuenta que es la primera cara del banco de sangre y, por lo tanto, <b> su atención y presentación personal le dará a conocer a los donantes, de una manera indirecta, el tipo de banco de sangre que lo está atendiendo y la calidad con la que maneja cada uno de sus procesos;</b> además, debe darle a entender a cada donante de sangre que es su prioridad atenderlo de manera inmediata y estar siempre dispuesto a resolver las dudas que tenga el donante, nunca puede ver estas como una interrupción, pues cada una de sus preguntas es importante.
 

@@ -15,12 +15,6 @@ export default {
         titulo: 'Volver al inicio',
       },
       {
-        nombreRuta: 'introduccion',
-        icono: 'fas fa-info',
-        titulo: 'Introducción',
-        desarrolloContenidos: true,
-      },
-      {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
@@ -116,7 +110,7 @@ export default {
       },
       {
         nombre: 'Magda Juliana Rodríguez Rodríguez',
-        cargo: 'Experta',
+        cargo: 'Experta Temática',
         centro: 'Red Nacional Bancos de Sangre y Servicio de Transfusión.',
       },
       {
