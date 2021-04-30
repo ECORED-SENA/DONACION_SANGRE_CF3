@@ -42,13 +42,13 @@ export default {
             hash: 't_1_3',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: 'far fa-play-circle',
             numero: '1.4',
             titulo: 'Mercadeo social',
             hash: 't_1_4',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: 'far fa-play-circle',
             numero: '1.5',
             titulo: 'Servicio a los donantes de sangre',
             hash: 't_1_5',
@@ -210,8 +210,8 @@ export default {
     },
     {
       referencia:
-        'Organización Panamericana de la Salud OPS. (2020). Manual hagamos la diferencia. https://iris.paho.org/handle/10665.2/31336',
-      link: '',
+        'Organización Panamericana de la Salud OPS. (2020). Manual hagamos la diferencia.',
+      link: 'https://iris.paho.org/handle/10665.2/31336',
     },
     {
       referencia:
