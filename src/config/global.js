@@ -292,8 +292,7 @@ export default {
       texto:
         'Organización Panamericana de la Salud - OPS. (2005). Manual hagamos la diferencia. Organización Panamericana de la Salud.',
       tipo: 'Manual',
-      link:
-        'https://iris.paho.org/bitstream/handle/10665.2/31336/Hagamosdiferencia-spa.pdf?sequence=1&isAllowed=y,',
+      link: 'downloads/complementario/Hagamosdiferencia-spa.pdf',
     },
     {
       texto:
@@ -306,8 +305,7 @@ export default {
       texto:
         'Boyd, S., Celiz, J. (2015). Plan de comunicación para la promoción de la donación voluntaria de sangre. [Tesis de grado]. Universidad Tecnológica del Perú.',
       tipo: 'Tesis para licenciado en ciencias de la comunicación.',
-      link:
-        'https://repositorio.utp.edu.pe/bitstream/handle/20.500.12867/286/0821350-0811144.pdf?sequence=1&isAllowed=y,',
+      link: 'downloads/complementario/0821350-0811144.pdf',
     },
     {
       texto:
