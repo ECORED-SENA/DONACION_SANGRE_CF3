@@ -200,7 +200,7 @@ export default {
       referencia:
         'Ministerio de Salud de Costa Rica. (2020). Mercadeo Social en salud: conceptos, principios y herramientas. ',
       link:
-        'https://bibliotecapromocion.msp.gob.ec/greenstone/cgi-bin/library.cgi?e=d-11000-00---off-0promocin--00-2----0-10-0---0---0direct-10----4-------0-0l--11-he-50---20-preferences---10-3-1-00-00--4--0--0-0-11-10-0gbk-00&cl=CL2.20&d=HASH8ed8eb6742ae05c2eb8b81&x=1',
+        'https://bibliotecapromocion.msp.gob.ec/greenstone/collect/promocin/index/assoc/HASH8ed8.dir/doc.pdf',
     },
     {
       referencia:
