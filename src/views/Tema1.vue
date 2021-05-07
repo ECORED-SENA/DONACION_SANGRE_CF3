@@ -82,7 +82,7 @@
         .bloque-texto-c.p-4      
           .h5.mb-2 Para generar cultura de donación se requiere contar con estrategias que llamen la atención de los ciudadanos.
             
-      .col-12.col-lg-8 Por ello es necesario indicar que una estrategia se alimenta de diferentes actividades estructuradas bajo una misma línea gráfica y con el mismo propósito, de tal forma que con el tiempo se logre generar recordación y educación en un tema determinado, por ejemplo: <b>obra de teatro, video, kit escolar, stand educativo, difusión de mensajes en redes sociales, semillero de promotores, entre otros.</b> <br><br>Todas estas herramientas de realizan con el mismo concepto creativo y de diseño.
+      .col-12.col-lg-8 Por ello es necesario indicar que una estrategia se alimenta de diferentes actividades estructuradas bajo una misma línea gráfica y con el mismo propósito, de tal forma que con el tiempo se logre generar recordación y educación en un tema determinado, por ejemplo: <b>obra de teatro, video, kit escolar, stand educativo, difusión de mensajes en redes sociales, semillero de promotores, entre otros.</b> <br><br>Todas estas herramientas se realizan con el mismo concepto creativo y de diseño.
 
     .row.mt-5
       .col-auto            
@@ -97,23 +97,23 @@
     br
     #t_1_3.h4.mt-4 1.3 Mercadeo en salud
     .titulo-segundo
-    p.mt-3 El mercadeo en salud aplica conceptos y principios del marketing comercial. <b>También se le conoce como como mercadotecnia en salud, mercadotecnia sanitaria o mercadotecnia de servicios de salud.</b>
+    p.mt-3 El mercadeo en salud aplica conceptos y principios del marketing comercial. <b>También se le conoce como mercadotecnia en salud, mercadotecnia sanitaria o mercadotecnia de servicios de salud.</b>
     br
     p.mb-4 El mercadeo en salud es un área de la salud pública que aplica principios y teorías de la mercadotecnia tradicional junto a las estrategias basadas en la ciencia de la promoción y prevención en salud (PyP). Por lo tanto, contribuye en que los avances en medicina y los temas relacionados con salud, sean ampliamente conocidos por un mercado objetivo.
 
     .cajon--rojo.p-4.mb-4
       p.mb-0 #[strong Una adecuada promoción invita a los ciudadanos a que conozcan la importancia de que la donación de sangre sea voluntaria y frecuente], además, promueve hábitos de vida saludables, razón por la cual el mercadeo en salud es una herramienta importante para establecer estrategias de sensibilización y educación en donación de sangre, siempre respetando los aspectos técnicos para captar donantes de bajo riesgo y evitar transmitir infecciones a aquellos pacientes que sean transfundidos.   
 
-    p El mercadeo en salud, sobre todo, promueve hábitos de vida saludables, es decir que el invitar a donar sangre siempre deberá estar acompañado de este tipo de información, como por ejemplo, informar a los ciudadanos sobre la importancia de consumir alimentos ricos en hierro (hígado, fríjoles, espinacas, acelgas, garbanzos, lentejas, arroz, trigo, entre otros), ya que a través de estos las persona puede contar con niveles óptimos de hemoglobina, permitiendo que sus glóbulos rojos tengan la estructura y color adecuados para poder cumplir con su función en el cuerpo, transportar el oxígeno. <b>Cuando se les brinda a las personas estas recomendaciones, comprenden la importancia de alimentarse adecuadamente.</b>
+    p El mercadeo en salud, sobre todo, promueve hábitos de vida saludables, es decir que el invitar a donar sangre siempre deberá estar acompañado de este tipo de información, como por ejemplo, informar a los ciudadanos sobre la importancia de consumir alimentos ricos en hierro (hígado, fríjoles, espinacas, acelgas, garbanzos, lentejas, arroz, trigo, entre otros), ya que a través de estos las personas pueden contar con niveles óptimos de hemoglobina, permitiendo que sus glóbulos rojos tengan la estructura y color adecuados para poder cumplir con su función en el cuerpo, transportar el oxígeno. <b>Cuando se les brinda a las personas estas recomendaciones, comprenden la importancia de alimentarse adecuadamente.</b>
 
     .jumbotron-4.mt-5
       .row.justify-content-center.align-items-center
         .col-auto
           img.img-jumbotron-padding(src='@/assets/curso/images/pages/ilustraciones/ico_5.svg' alt="", style="width:180px; display:block; margin:auto 0;").img-float
         .col
-          p.mt-4 Otro ejemplo de información que se debe brindar a las personas al momento de invitarlas a donar sangre, <b>es la importancia del uso del condón durante las relaciones sexuales,</b> ya que este tiene una función que va más allá de prevenir embarazos, y es la reducir la posibilidad de infectarse de enfermedades como el VIH, Hepatitis B, Sífilis, entre otros. 
+          p.mt-4 Otro ejemplo de información que se debe brindar a las personas al momento de invitarlas a donar sangre, <b>es la importancia del uso del condón durante las relaciones sexuales,</b> ya que este tiene una función que va más allá de prevenir embarazos, y es la de reducir la posibilidad de infectarse de enfermedades como el VIH, Hepatitis B, Sífilis, entre otros. 
 
-    p.mt-5 Cuando se expresan este tipo de argumentos a la comunidad, comprenden la importancia del autocuidado. De acuerdo con lo anterior, <b>se ratifica que cuando se promueve la donación de sangre, se ejercen acciones de mercadeo en salud, </b>lo cual contribuye con el fortalecimiento de la salud pública.
+    p.mt-5 Cuando se expresan este tipo de argumentos a la comunidad, comprenden la importancia del autocuidado. De acuerdo con lo anterior, <b>se ratifica que cuando se promueve la donación de sangre, se ejercen acciones de mercadeo en salud, </b>lo cual contribuye con el fortalecimiento de la salud pública. 
 
     .cajon--rojo.p-4.mb-5.mb-lg-0.mt-4
       p.mb-0 Es importante que el promotor, al momento de brindar información, siempre cuente con herramientas lúdicas que permitan llamar la atención de los donantes potenciales de sangre y que <b>faciliten la emisión del mensaje para que lograr mayor comprensión del tema por parte de los donantes</b>
@@ -223,7 +223,7 @@
         .crd-border 
           figure
             img(src="@/assets/curso/images/pages/ilustraciones/ico_14.svg", alt="alt", style="width:70px; display:block; margin:0 auto;")       
-          .h5.text-center.mt-3 #[strong ¿usted volvería a donar sangre?] 
+          .h5.text-center.mt-3 #[strong ¿Usted volvería a donar sangre?] 
     
     br
 

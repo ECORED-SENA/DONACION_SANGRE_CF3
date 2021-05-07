@@ -183,7 +183,7 @@ export default {
       referencia:
         'Comunidad Económica Europea. (2020). Manual de gestión de donantes proyecto Domaine. https://aprenderly.com/doc/1774837/manual-de-gesti%C3%B3n-de-donantes.-proyecto-domaine.',
       link:
-        'https://www.mscbs.gob.es/profesionales/saludPublica/medicinaTransfusional/publicaciones/docs/criteriosBasicosTomoII_2006_030907.pdf',
+        'https://aprenderly.com/doc/1774837/manual-de-gesti%C3%B3n-de-donantes.-proyecto-domaine',
     },
     {
       referencia:
@@ -269,7 +269,7 @@ export default {
     {
       termino: 'Mercadeo social',
       significado:
-        'combinación de técnicas de marketing pero que no busca promocionar productos o servicios, sino que quiere, principalmente, difundir alguna idea que ayude a superar problemas sociales.,',
+        'combinación de técnicas de marketing pero que no busca promocionar productos o servicios, sino que quiere, principalmente, difundir alguna idea que ayude a superar problemas sociales.',
     },
     {
       termino: 'Mitos sobre la donación de sangre',
@@ -317,7 +317,7 @@ export default {
       texto:
         'Pérez, P., Vásquez, L., y Echegaray, C. (2017). Conocimientos y mitos en la donación de sangre en estudiantes de Enfermería del 2do al 4to año de una universidad privada de Lima. [Tesis de grado]. Universidad Peruana Cayetano Heredia.',
       tipo: 'Tesis para optar el título de licenciada en enfermería.',
-      link: 'http://repositorio.upch.edu.pe/handle/upch/3586',
+      link: 'https://repositorio.upch.edu.pe/handle/20.500.12866/3586',
     },
     {
       texto:
