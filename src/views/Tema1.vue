@@ -102,7 +102,7 @@
     p.mb-4 El mercadeo en salud es un área de la salud pública que aplica principios y teorías de la mercadotecnia tradicional junto a las estrategias basadas en la ciencia de la promoción y prevención en salud (PyP). Por lo tanto, contribuye en que los avances en medicina y los temas relacionados con salud, sean ampliamente conocidos por un mercado objetivo.
 
     .cajon--rojo.p-4.mb-4
-      p.mb-0 #[strong Una adecuada promoción invita a los ciudadanos a que conozcan la importancia de que la donación de sangre sea voluntaria y frecuente], además, promueve hábitos de vida saludables, razón por la cual el mercadeo en salud es una herramienta importante para establecer estrategias de sensibilización y educación en donación de sangre, siempre respetando los aspectos técnicos para captar donantes de bajo riesgo y evitar transmitir infecciones a aquellos pacientes que sean transfundidos.   
+      p.mb-0 #[strong Una adecuada promoción invita a los ciudadanos a que conozcan la importancia que la donación de sangre sea voluntaria y frecuente], además, promueve hábitos de vida saludables, razón por la cual el mercadeo en salud es una herramienta importante para establecer estrategias de sensibilización y educación en donación de sangre, siempre respetando los aspectos técnicos para captar donantes de bajo riesgo y evitar transmitir infecciones a aquellos pacientes que sean transfundidos.   
 
     p El mercadeo en salud, sobre todo, promueve hábitos de vida saludables, es decir que el invitar a donar sangre siempre deberá estar acompañado de este tipo de información, como por ejemplo, informar a los ciudadanos sobre la importancia de consumir alimentos ricos en hierro (hígado, fríjoles, espinacas, acelgas, garbanzos, lentejas, arroz, trigo, entre otros), ya que a través de estos las personas pueden contar con niveles óptimos de hemoglobina, permitiendo que sus glóbulos rojos tengan la estructura y color adecuados para poder cumplir con su función en el cuerpo, transportar el oxígeno. <b>Cuando se les brinda a las personas estas recomendaciones, comprenden la importancia de alimentarse adecuadamente.</b>
 
@@ -116,7 +116,7 @@
     p.mt-5 Cuando se expresan este tipo de argumentos a la comunidad, comprenden la importancia del autocuidado. De acuerdo con lo anterior, <b>se ratifica que cuando se promueve la donación de sangre, se ejercen acciones de mercadeo en salud, </b>lo cual contribuye con el fortalecimiento de la salud pública. 
 
     .cajon--rojo.p-4.mb-5.mb-lg-0.mt-4
-      p.mb-0 Es importante que el promotor, al momento de brindar información, siempre cuente con herramientas lúdicas que permitan llamar la atención de los donantes potenciales de sangre y que <b>faciliten la emisión del mensaje para que lograr mayor comprensión del tema por parte de los donantes</b>
+      p.mb-0 Es importante que el promotor, al momento de brindar información, siempre cuente con herramientas lúdicas que permitan llamar la atención de los donantes potenciales de sangre y que <b>faciliten la emisión del mensaje para lograr mayor comprensión del tema por parte de los donantes</b>
 
     p.mt-5 Finalmente, se puede decir que <b>si un promotor no brinda información sobre las acciones que conlleven al autocuidado, no está cumpliendo con la labor que está bajo su responsabilidad,</b> ya que la donación de sangre promueve vida y, por ende, su actuar debe contribuir al fortalecimiento de la salud pública en el país (Peñaloza, Prieto y Rodríguez, 2012).
     br
@@ -161,7 +161,7 @@
           img.me-3(src='@/assets/curso/images/pages/ilustraciones/ico_11.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float     
       .col
         h6.mb-2 Concertado interinstitucional/intersectorialmente
-        p El mercadeo social involucra no solo al público objetivo, sino que se coordina con instituciones representativas de distintos sectores sociales, para realizar intervenciones conjuntas. #[br]Es decir, el mercadeo social promueve la cohesión social, lo cual es relevante para la donación de sangre, puesto que es un tema que no solo es competencia del sector salud. Es por esto que el promotor de la donación, al implementar acciones de mercadeo social, se ve en la necesidad de invitar a que otros actores se involucren con el tema. 
+        p El mercadeo social involucra no solo al público objetivo, sino que se coordina con instituciones representativas de distintos sectores sociales, para realizar intervenciones conjuntas. #[br]Es decir, el mercadeo social promueve la cohesión social, lo cual es relevante para la donación de sangre, puesto que es un tema que no solo es competencia del sector salud. Es por esto que el promotor de la donación, al implementar acciones de mercadeo social, se ve en la necesidad de invitar a que otros actores que se involucren con el tema. 
     hr
     .row.align-items-center
       .col-auto
@@ -185,7 +185,7 @@
           img.me-3(src='@/assets/curso/images/pages/ilustraciones/ico_8.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float     
       .col
         h6.mb-2 Es interdisciplinario
-        p Requiere de trabajo en equipo para aplicar el conocimiento de las disciplinas relacionadas y con miras a la promoción de la donación de sangre se requiere de un equipo interdisciplinario que contribuya desde el campo de la publicidad, diseño gráfico, periodismo, trabajo social, community manager, entre otros (Ministerio de Salud de Costa Rica, 2020; Santay, 2018)
+        p Requiere de trabajo en equipo para aplicar el conocimiento de las disciplinas relacionadas y con miras a la promoción de la donación de sangre se requiere de un equipo interdisciplinario que contribuya desde el campo de la publicidad, diseño gráfico, periodismo, trabajo social, community manager, talento humano,  entre otros (Ministerio de Salud de Costa Rica, 2020; Santay, 2018)
     hr
     br
 
@@ -242,7 +242,7 @@
         .col-auto
           img(src="@/assets/curso/images/pages/ilustraciones/ico_18.svg", alt="", style="width:100px; display:left; margin:auto 0;")
         .col
-          p.mb-0 Con los conocimientos adquiridos, los niños y niñas podrán en el presente promover hábitos de vida saludables y la donación de sangre en sus entornos familiares, para, en un futuro, ser donantes habituales de sangre.
+          p.mb-0 Con los conocimientos adquiridos, los niños y niñas podrán en el presente promover hábitos de vida saludables y la donación de sangre en sus entornos familiares, para que en un futuro puedan ser donantes habituales de sangre.
 
     p.mt-5 Debido a que se requieren herramientas para llamar la atención de los estudiantes, el INS creó los diseños gráficos y el concepto creativo del proyecto de cohesión; a dichas herramientas lúdicas se les denominó La sangre y su recorrido por la vida, que tiene cuatro (4) personajes:<b> INeSita, glóbulo rojo, glóbulo blanco y plaqueta.</b> Bajo dicho concepto se dio origen a un kit escolar, el cual contiene: <b>cartilla, video y juegos que permiten a los estudiantes lograr interiorizar la información que contiene el material. </b>Posteriormente, y con lo aprendido, los estudiantes crean obras de teatro, títeres, tren de la alimentación, jornadas de aeróbicos, entre otras actividades.
 
@@ -335,7 +335,7 @@ export default {
       {
         titulo: '',
         texto:
-          'La única fábrica de sangre que existe en todo el universo está en los huesos y se llama la médula ósea, inmediatamente una persona dona, la médula ósea se activa e inicia la producción de las nuevas células sanguíneas, sin necesidad de que dicha persona haga algo para su obtención.',
+          'La única fábrica de sangre que existe en todo el universo está en los huesos y se llama la médula ósea, inmediatamente una persona dona, la médula ósea se activa e inicia la producción de las nuevas células sanguíneas, sin necesidad de que dicha persona haga algo para su obtención.<br><br><b>¿Donar sangre enferma?</b><br>R/ Donar sangre no enferma porque todo el material utilizado es estéril, desechable y personal.<br><br><b>¿La sangre la venden?</b><br>R/ No, la sangre que es donada por las personas no la venden, lo que se cobra es el procesamiento que se le realiza a la misma antes de ser transfundida a un paciente. Y el costo que tiene lo asume el sistema de salud, no el paciente, ni sus familiares.',
         imagen: require('@/assets/curso/images/pages/ilustraciones/S1.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

@@ -191,19 +191,19 @@ export default {
     },
     {
       referencia:
-        'Comunidad Económica Europea. (2020). Manual de gestión de donantes proyecto Domaine. https://aprenderly.com/doc/1774837/manual-de-gesti%C3%B3n-de-donantes.-proyecto-domaine.',
+        'Comunidad Económica Europea. (2011). Manual de gestión de donantes proyecto Domaine.',
       link:
-        'https://aprenderly.com/doc/1774837/manual-de-gesti%C3%B3n-de-donantes.-proyecto-domaine',
+        'https://www.mscbs.gob.es/profesionales/saludPublica/medicinaTransfusional/publicaciones/docs/Manual_Gestion_Donantes.pdf',
     },
     {
       referencia:
-        'Instituto Nacional de Salud – INS. (2020). Boletín técnico: la promoción de la donación voluntaria y habitual de sangre.',
+        'Instituto Nacional de Salud – INS. (2011). Boletín técnico: la promoción de la donación voluntaria y habitual de sangre.',
       link:
         'https://www.ins.gov.co/direcciones/redessaludpublica/donacionsangre/publicaciones/forms/allitems.aspx?paged=true&pagedprev=true&p%255fsortbehavior=0&p%255fmodified=20190621+15:48:13&p%255fid=98&pagefirstrow=2051&view=%7B9ba0dcd5-959b-429c-b4fe-0852977b2162%7D',
     },
     {
       referencia:
-        'Instituto Nacional de Salud - INS. (2020). La promoción de la donación voluntaria de sangre como agente de cohesión social.',
+        'Instituto Nacional de Salud - INS. (2009). Resultados de la investigación de la promoción de la donación voluntaria de sangre como agente de cohesión social.',
       link: '',
     },
     {
@@ -214,13 +214,13 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Sanidad y Consumo España. (2020). Criterios básicos para la selección de donantes de sangre y componentes.',
+        'Ministerio de Sanidad y Consumo España. (2006). Criterios básicos para la selección de donantes de sangre y componentes.',
       link:
         'https://www.mscbs.gob.es/profesionales/saludPublica/medicinaTransfusional/publicaciones/docs/criteriosBasicosTomoII_2006_030907.pdf',
     },
     {
       referencia:
-        'Organización Panamericana de la Salud OPS. (2020). Manual hagamos la diferencia.',
+        'Organización Panamericana de la Salud OPS. (2005). Manual hagamos la diferencia.',
       link: 'https://iris.paho.org/handle/10665.2/31336',
     },
     {
@@ -284,12 +284,12 @@ export default {
     {
       termino: 'Mitos sobre la donación de sangre',
       significado:
-        'creencias arraigadas de manera popular entre la gente, que no tiene ningún soporte científico y que, por lo tanto, no son verdaderas. ',
+        'creencias arraigadas de manera popular entre la gente, que no tiene ningún soporte científico y que, por lo tanto, no son verdaderas.',
     },
     {
       termino: 'Promoción de la donación de sangre',
       significado:
-        'proceso de ayuda a las personas para que opten ser donantes a lo largo de toda su vida y que implica la observancia de principios bioéticos, como: la autonomía del hombre y el altruismo para brindar su sangre, o algunos de sus componentes, para ser empleados en pacientes que los requieren. Este proceso requiere que se le brinde a los donantes plena información de los detalles del procedimiento, sus objetivos y los riesgos a los que se somete, y con todos estos elementos en su poder dar su consentimiento escrito.,',
+        'proceso de ayuda a las personas para que opten ser donantes a lo largo de toda su vida y que implica la observancia de principios bioéticos, como: la autonomía del hombre y el altruismo para brindar su sangre, o algunos de sus componentes, para ser empleados en pacientes que los requieren. Este proceso requiere que se le brinde a los donantes plena información de los detalles del procedimiento, sus objetivos y los riesgos a los que se somete, y con todos estos elementos en su poder dar su consentimiento escrito.',
     },
     {
       termino: 'Seguridad transfusional',
