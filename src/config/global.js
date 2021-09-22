@@ -111,17 +111,17 @@ export default {
       {
         nombre: 'Magda Juliana Rodríguez Rodríguez',
         cargo: 'Experta Temática',
-        centro: 'Red Nacional Bancos de Sangre y Servicio de Transfusión.',
+        centro: 'Red Nacional Bancos de Sangre y Servicios de Transfusión.',
       },
       {
         nombre: 'Mauricio Hernán Bonilla Contreras',
         cargo: 'Experto Temático',
-        centro: 'Red Nacional Bancos de Sangre y Servicio de Transfusión.',
+        centro: 'Red Nacional Bancos de Sangre y Servicios de Transfusión.',
       },
       {
         nombre: 'Olga Maritza Berrio Pérez',
         cargo: 'Experta Temática',
-        centro: 'Red Nacional Bancos de Sangre y Servicio de Transfusión.',
+        centro: 'Red Nacional Bancos de Sangre y Servicios de Transfusión.',
       },
       {
         nombre: 'Maryuri Agudelo Franco',
