@@ -161,7 +161,7 @@
           img.me-3(src='@/assets/curso/images/pages/ilustraciones/ico_11.svg' alt="", style="width:70px; display:block; margin:auto 0;").img-float     
       .col
         h6.mb-2 Concertado interinstitucional/intersectorialmente
-        p El mercadeo social involucra no solo al público objetivo, sino que se coordina con instituciones representativas de distintos sectores sociales, para realizar intervenciones conjuntas. #[br]Es decir, el mercadeo social promueve la cohesión social, lo cual es relevante para la donación de sangre, puesto que es un tema que no solo es competencia del sector salud. Es por esto que el promotor de la donación, al implementar acciones de mercadeo social, se ve en la necesidad de invitar a que otros actores que se involucren con el tema. 
+        p El mercadeo social involucra no solo al público objetivo, sino que se coordina con instituciones representativas de distintos sectores sociales, para realizar intervenciones conjuntas. #[br]#[br]Es decir, el mercadeo social promueve la cohesión social, lo cual es relevante para la donación de sangre, puesto que es un tema que no solo es competencia del sector salud. Es por esto que el promotor de la donación, al implementar acciones de mercadeo social, se ve en la necesidad de invitar a otros actores que se involucren con el tema. 
     hr
     .row.align-items-center
       .col-auto
